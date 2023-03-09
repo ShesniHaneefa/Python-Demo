@@ -15,7 +15,7 @@ Running the project:
 
 Migrate :
 
-> cd todo_app
+> cd todoapp
 > python manage.py migrate
 
 Make Admin User :
@@ -24,5 +24,5 @@ Make Admin User :
 
 runserver :
 
-> cd todo_app 
+> cd todoapp 
 > python manage.py runserver  
