@@ -1,5 +1,7 @@
 # Python-Django To Do App
 This is a To-Do app build using django framework of python. Here user can create his todo list by adding items, update the list, delete the completed items and can delete all the items.
+![image](https://user-images.githubusercontent.com/116285239/224098375-fe27c80a-f2b3-4a28-ad89-06ce3715924f.png)
+
 
 Technologies Used :
 ```
@@ -17,7 +19,6 @@ Running the project:
 
 Migrate :
 ```
-> cd todoapp
 > python manage.py migrate
 ```
 
@@ -27,6 +28,7 @@ Make Admin User :
 ```
 
 runserver :
-
+```
 > cd todoapp 
 > python manage.py runserver  
+```
